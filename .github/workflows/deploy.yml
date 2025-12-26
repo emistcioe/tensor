@@ -6,7 +6,7 @@ on:
 jobs:
   deploy:
     name: Build & Deploy
-    runs-on: self-hosted
+    runs-on:  [self-hosted, club emis]
     env:
       REACT_APP_SPREADSHEET_API_KEY: ${{ secrets.REACT_APP_SPREADSHEET_API_KEY }}
 
