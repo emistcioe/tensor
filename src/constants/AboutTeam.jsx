@@ -65,24 +65,6 @@ const CurrentTeam = [
         linkedin: "https://www.linkedin.com/in/samiksha-dhakal"
     },
     {
-        Image: images['Shreeichchha'],
-        Name: "Shreeichchha K.C.",
-        Role: "Social Media Manager",
-        facebook: "https://www.facebook.com/shreeichchha27",
-        instagram: "https://www.instagram.com/shreeichchha",
-        github: "https://github.com/Shreeichchha",
-        linkedin: "https://www.linkedin.com/in/shreeichchha-k-c-582b74313"
-    },
-    {
-        Image: images['Pankaj'],
-        Name: "Pankaj Kumar Mehta",
-        Role: "Research Advocate",
-        facebook: "https://www.facebook.com/pankaj.mehta.858328",
-        instagram: "https://www.instagram.com/pankajmehta07",
-        github: "",
-        linkedin: ""
-    },
-    {
         Image: images['Avignya'],
         Name: "Avignya Gautam",
         Role: "Research Advocate",
@@ -94,7 +76,7 @@ const CurrentTeam = [
     {
         Image: images['Biraj'],
         Name: "Biraj Rijal",
-        Role: "Junior Research Advocate",
+        Role: "Research Advocate",
         facebook: "https://www.facebook.com/biraj.rijal.90",
         instagram: "https://www.instagram.com/birajrijal08",
         github: "",
@@ -103,7 +85,7 @@ const CurrentTeam = [
     {
         Image: images['Dhiraj'],
         Name: "Dhiraj Jung Pandey",
-        Role: "Junior Research Advocate",
+        Role: "Research Advocate",
         facebook: "https://www.facebook.com/dheeraj.llchhetri",
         instagram: "https://www.instagram.com/dheeraj.ll",
         github: "https://github.com/Dheerajll",
@@ -112,7 +94,7 @@ const CurrentTeam = [
     {
         Image: images['Sandesh'],
         Name: "Sandesh Kandel",
-        Role: "Junior Research Advocate",
+        Role: "Research Advocate",
         facebook: "https://www.facebook.com/Anonymous.702",
         instagram: "https://www.instagram.com/sandesh_kandel121",
         github: "",
@@ -126,15 +108,6 @@ const CurrentTeam = [
         instagram: "https://www.instagram.com/mini_rubyyy",
         github: "",
         linkedin: ""
-    },
-    {
-        Image: images['Balram'],
-        Name: "Balram Sharma Kandel",
-        Role: "Graphics Designer",
-        facebook: "https://www.facebook.com/sakar.sharma.132245",
-        instagram: "https://www.instagram.com/sakar.zzz",
-        github: "https://www.github.com/rafelyzzz",
-        linkedin: "https://www.linkedin.com/in/balram-sharma-kandel-4359332a8"
     },
     {
         Image: images['Kashmir'],
