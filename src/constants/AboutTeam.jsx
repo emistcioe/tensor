@@ -49,29 +49,38 @@ const CurrentTeam = [
     {
         Image: images['Shreya'],
         Name: "Shreya Adhikari",
-        Role: "Marketing Director",
+        Role: "Lead Marketing Director",
         facebook: "https://www.facebook.com/cya.adhik",
         instagram: "https://www.instagram.com/__.shrub.__",
         github: "https://www.github.com/shreyagit-hub",
         linkedin: ""
     },
     {
-        Image: images['Samiksha'],
-        Name: "Samiksha Dhakal",
-        Role: "Marketing Associate",
-        facebook: "https://www.facebook.com/sameeksha13",
-        instagram: "https://www.instagram.com/_sameekshadhakal",
-        github: "https://www.github.com/sameekshadhakal",
-        linkedin: "https://www.linkedin.com/in/samiksha-dhakal"
+        Image: images['Kashmir'],
+        Name: "Kashmir Shrestha",
+        Role: "Software Coordinator",
+        facebook: "https://www.facebook.com/kashmir.shrestha.7",
+        instagram: "https://www.instagram.com/kashmir.shrestha.7",
+        github: "https://www.github.com/kashmir-xtha",
+        linkedin: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
-        Image: images['Avignya'],
-        Name: "Avignya Gautam",
+        Image: images['Ruby'],
+        Name: "Ruby Kumari Sah",
+        Role: "Lead Graphics Designer",
+        facebook: "https://www.facebook.com/ruby.sah.182",
+        instagram: "https://www.instagram.com/mini_rubyyy",
+        github: "",
+        linkedin: ""
+    },
+    {
+        Image: images['Sandesh'],
+        Name: "Sandesh Kandel",
         Role: "Research Advocate",
-        facebook: "https://www.facebook.com/avignya.gautam",
-        instagram: "https://www.instagram.com/avignya_gautam",
-        github: "https://github.com/entalecia",
-        linkedin: "https://www.linkedin.com/in/avignya-gautam-9856381b9"
+        facebook: "https://www.facebook.com/Anonymous.702",
+        instagram: "https://www.instagram.com/sandesh_kandel121",
+        github: "",
+        linkedin: ""
     },
     {
         Image: images['Biraj'],
@@ -92,31 +101,121 @@ const CurrentTeam = [
         linkedin: "https://www.linkedin.com/in/dheeraj-chhetri-9b9b56352"
     },
     {
-        Image: images['Sandesh'],
-        Name: "Sandesh Kandel",
+        Image: images['Santosh'],
+        Name: "Santosh Gadtaula",
         Role: "Research Advocate",
-        facebook: "https://www.facebook.com/Anonymous.702",
-        instagram: "https://www.instagram.com/sandesh_kandel121",
+        facebook: "",
+        instagram: "",
         github: "",
         linkedin: ""
     },
     {
-        Image: images['Ruby'],
-        Name: "Ruby Kumari Sah",
+        Image: images['Alok'],
+        Name: "Alok Sharma",
+        Role: "Junior Research Advocate",
+        facebook: "",
+        instagram: "",
+        github: "",
+        linkedin: ""
+    },
+    {
+        Image: images['Shikshit'],
+        Name: "Shikshit Bhattarai",
+        Role: "Junior Research Advocate",
+        facebook: "",
+        instagram: "",
+        github: "",
+        linkedin: ""
+    },
+    {
+        Image: images['Sandip'],
+        Name: "Sandip Dhakal",
+        Role: "Social Media Manager",
+        facebook: "",
+        instagram: "",
+        github: "",
+        linkedin: ""
+    },
+    {
+        Image: images['Bipin'],
+        Name: "Bipin Shrestha",
         Role: "Graphics Designer",
-        facebook: "https://www.facebook.com/ruby.sah.182",
-        instagram: "https://www.instagram.com/mini_rubyyy",
+        facebook: "",
+        instagram: "",
         github: "",
         linkedin: ""
     },
     {
-        Image: images['Kashmir'],
-        Name: "Kashmir Shrestha",
-        Role: "Software Coordinator",
-        facebook: "https://www.facebook.com/kashmir.shrestha.7",
-        instagram: "https://www.instagram.com/kashmir.shrestha.7",
-        github: "https://www.github.com/kashmir-xtha",
-        linkedin: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        Image: images['Pooja'],
+        Name: "Pooja Adhikari",
+        Role: "Graphics Designer",
+        facebook: "",
+        instagram: "",
+        github: "",
+        linkedin: ""
+    },
+    {
+        Image: images['Samiksha'],
+        Name: "Samiksha Dhakal",
+        Role: "Marketing Associate",
+        facebook: "https://www.facebook.com/sameeksha13",
+        instagram: "https://www.instagram.com/_sameekshadhakal",
+        github: "https://www.github.com/sameekshadhakal",
+        linkedin: "https://www.linkedin.com/in/samiksha-dhakal"
+    },
+    {
+        Image: images['Simonee'],
+        Name: "Simonee Bajagain",
+        Role: "Marketing Associate",
+        facebook: "",
+        instagram: "",
+        github: "",
+        linkedin: ""
+    },
+    {
+        Image: images['Subigya'],
+        Name: "Subigya Tripathi",
+        Role: "Marketing Associate",
+        facebook: "",
+        instagram: "",
+        github: "",
+        linkedin: ""
+    },
+    {
+        Image: images['Prakash'],
+        Name: "Prakash Kumar Badaila",
+        Role: "Web Developer",
+        facebook: "",
+        instagram: "",
+        github: "",
+        linkedin: ""
+    },
+    {
+        Image: images['Rakhi'],
+        Name: "Rakhi Jha",
+        Role: "Web Developer",
+        facebook: "",
+        instagram: "",
+        github: "",
+        linkedin: ""
+    },
+    {
+        Image: images['Prince'],
+        Name: "Prince Kumar Shah",
+        Role: "General Member",
+        facebook: "",
+        instagram: "",
+        github: "",
+        linkedin: ""
+    },
+    {
+        Image: images['Subash'],
+        Name: "Subash Shrestha",
+        Role: "General Member",
+        facebook: "",
+        instagram: "",
+        github: "",
+        linkedin: ""
     }
 ]
 

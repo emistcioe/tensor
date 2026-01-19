@@ -12,7 +12,7 @@ export default function Apply() {
     <>
       {applicationClosed ? (
         <div className="w-auto xl:w-width h-[85vh] mx-auto flex flex-col items-center justify-center ">
-          <div className="md:w-[700px] px-4">
+          <div className="md:w-[900px] px-4">
             <Lottie animationData={applicationClosedGIF} loop={true} autoplay={true} />
           </div>
           <p className="px-2 text-center text-lg md:text-2xl font-bold uppercase">

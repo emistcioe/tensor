@@ -19,13 +19,13 @@ const HomeEvents = () => {
                 }
                 return prev + 1
             })
-        }, 6) // increment after each 7ms
+        }, 10) // increment after each 10ms
         const incrementSchools = setInterval(() => {
             setTotalSchools((prev) => {
                 if (prev === 2) { clearInterval(incrementSchools); return prev }
                 return prev + 1
             })
-        }, 500) // increment after each 0.5s 
+        }, 1000) // increment after each 1s 
     }
 
     useEffect(() => {
