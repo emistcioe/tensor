@@ -1,13 +1,14 @@
 import { React, useEffect } from "react";
 import Lottie from 'lottie-react'; //needed for applicationClosedGIF to run
 import applicationClosedGIF from '../../images/assets/applicationClosedGIF.json'
-import ApplyForm from "./applyForm";
+// import ApplyForm from "./applyForm"
+import RegistrationForm from "./registrationForm";
 
 export default function Apply() {
   useEffect(() => {
     window.scrollTo(0, 0)
   }, [])
-  const applicationClosed = true;
+  const applicationClosed = false;
   return (
     <>
       {applicationClosed ? (
@@ -20,7 +21,7 @@ export default function Apply() {
           </p>
         </div>
       ) : (
-        <ApplyForm />
+        <RegistrationForm />
       )}
     </>
   );
