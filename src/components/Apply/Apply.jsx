@@ -8,7 +8,7 @@ export default function Apply() {
   useEffect(() => {
     window.scrollTo(0, 0)
   }, [])
-  const applicationClosed = false;
+  const applicationClosed = true;
   return (
     <>
       {applicationClosed ? (
