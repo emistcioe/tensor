@@ -97,10 +97,10 @@ const CurrentTeam = [
         Image: images['Dev'],
         Name: "Dev Chandra Adhikari",
         Role: "Research Advocate",
-        facebook: "",
-        instagram: "",
-        github: "",
-        linkedin: ""
+        facebook: "https://www.facebook.com/adkdev200",
+        instagram: "https://www.instagram.com/adkdev200/",
+        github: "https://github.com/adkdev200-ops",
+        linkedin: "https://www.linkedin.com/in/dev-adhikari-a9b737382/"
     },
     {
         Image: images['Alok'],
