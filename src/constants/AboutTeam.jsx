@@ -94,7 +94,7 @@ const CurrentTeam = [
         linkedin: ""
     },
     {
-        Image: images['Dev'],
+        Image: images['dev1'],
         Name: "Dev Chandra Adhikari",
         Role: "Research Advocate",
         facebook: "https://www.facebook.com/adkdev200",
