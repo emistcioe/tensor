@@ -67,6 +67,42 @@ const CurrentTeam = [
     },
 
     {
+        Image: images['Biraj'],
+        Name: "Biraj Rijal",
+        Role: "Research Advocate",
+        facebook: "https://www.facebook.com/biraj.rijal.90",
+        instagram: "https://www.instagram.com/birajrijal08",
+        github: "",
+        linkedin: ""
+    },
+    {
+        Image: images['Dhiraj'],
+        Name: "Dhiraj Jung Pandey",
+        Role: "Research Advocate",
+        facebook: "https://www.facebook.com/dheeraj.llchhetri",
+        instagram: "https://www.instagram.com/dheeraj.ll",
+        github: "https://github.com/Dheerajll",
+        linkedin: "https://www.linkedin.com/in/dheeraj-chhetri-9b9b56352"
+    },
+    {
+        Image: images['Santosh'],
+        Name: "Santosh Gadtaula",
+        Role: "Research Advocate",
+        facebook: "",
+        instagram: "",
+        github: "",
+        linkedin: ""
+    },
+    {
+        Image: images['dev1'],
+        Name: "Dev Chandra Adhikari",
+        Role: "Research Advocate",
+        facebook: "https://www.facebook.com/adkdev200",
+        instagram: "https://www.instagram.com/adkdev200/",
+        github: "https://github.com/adkdev200-ops",
+        linkedin: "https://www.linkedin.com/in/dev-adhikari-a9b737382/"
+    },
+    {
         Image: images['Alok'],
         Name: "Alok Sharma",
         Role: "Research Advocate",
