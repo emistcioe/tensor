@@ -14,10 +14,10 @@ const CurrentTeam = [
         Image: images['Sandesh'],
         Name: "Sandesh Kandel",
         Role: "Co-ordinator",
-        facebook: "https://www.facebook.com/Anonymous.702",
-        instagram: "https://www.instagram.com/sandesh_kandel121",
+        facebook: "https://www.facebook.com/Anonymous.702/",
+        instagram: "https://www.instagram.com/sandesh_kandel121/",
         github: "",
-        linkedin: ""
+        linkedin: "https://www.linkedin.com/in/sandesh-kandel-1355bb351/"
     },
    {
         Image: images['Samiksha'],
@@ -85,15 +85,15 @@ const CurrentTeam = [
         linkedin: "https://www.linkedin.com/in/alok-sharma-32576a353/"
     },
    
-    // {do'n thave photo
-    //     Image: images['Muhammad'],
-    //     Name: "Sheikh Muhammad Samir Hoda ",
-    //     Role: "Research Advocate",
-    //     facebook: "https://www.facebook.com/cr.sameer.16",
-    //     instagram: "https://www.instagram.com/cr.sameer.16?igsh=M2Z5d2J3eHk0ZnBx",
-    //     github: "https://github.com/sheikhsamir123",
-    //     linkedin: "https://www.linkedin.com/in/samir-hoda-618827375?utm_source=share_via&utm_content=profile&utm_medium=member_android"
-    // },
+    {
+        Image: images['Muhammad'],
+        Name: "Sheikh Muhammad Samir Hoda ",
+        Role: "Research Advocate",
+        facebook: "https://www.facebook.com/cr.sameer.16",
+        instagram: "https://www.instagram.com/cr.sameer.16?igsh=M2Z5d2J3eHk0ZnBx",
+        github: "https://github.com/sheikhsamir123",
+        linkedin: "https://www.linkedin.com/in/samir-hoda-618827375?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+    },
     {
         Image: images['Shikshit'],
         Name: "Shikshit Bhattarai",
@@ -145,7 +145,7 @@ const CurrentTeam = [
     },
     {
        Image: images['Jay'],
-       Name: "Jay Sapkoka",
+       Name: "Jay Sapkota",
        Role: "Junior Research Advocate",
        facebook: "https://www.facebook.com/ankit.sapkota.1297",
        instagram: "https://www.instagram.com/_ankit_sapkota?igsh=MThmbmYyeWllYnN4dg==",
