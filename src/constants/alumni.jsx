@@ -1,3 +1,11 @@
+// import Ishwor from '../images/members/Ishwor.jpg Excoordinator'
+// import Prabesh from '../images/members/Prabesh.jpg Sectartary'
+// import Sujal from '../images/members/Sujal.jpg Lead RA'
+// import Kashmir from "../images/members/Kashmir.jpg Lead software Coorsinator"
+// import Ruby from "../images/members/Ruby.jpg Lead Grpahics"
+// import Shreya from "../images/members/Shreya.jpg Laed Marketing Head"
+
+
 import khemraj from '../images/members/khemraj.jpg'
 import jivan from '../images/members/Jivan.jpg'
 import jatin from '../images/members/Jatin.jpg'
