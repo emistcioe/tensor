@@ -22,7 +22,7 @@ const CurrentTeam = [
    {
         Image: images['Samiksha'],
         Name: "Samiksha Dhakal",
-        Role: "Sectary",
+        Role: "Secretary",
         facebook: "https://www.facebook.com/sameeksha13",
         instagram: "https://www.instagram.com/_sameekshadhakal",
         github: "https://www.github.com/sameekshadhakal",
