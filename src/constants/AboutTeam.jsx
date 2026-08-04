@@ -22,7 +22,7 @@ const CurrentTeam = [
    {
         Image: images['Samiksha'],
         Name: "Samiksha Dhakal",
-        Role: "aMarketing Associate",
+        Role: "Sectary",
         facebook: "https://www.facebook.com/sameeksha13",
         instagram: "https://www.instagram.com/_sameekshadhakal",
         github: "https://www.github.com/sameekshadhakal",
@@ -72,7 +72,7 @@ const CurrentTeam = [
         Role: "Research Advocate",
         facebook: "https://www.facebook.com/adkdev200",
         instagram: "https://www.instagram.com/adkdev200/",
-        github: "https://github.com/adkdev200-ops",
+        github: "https://github.com/adkdev200-",
         linkedin: "https://www.linkedin.com/in/dev-adhikari-a9b737382/"
     },
     {
@@ -80,8 +80,8 @@ const CurrentTeam = [
         Name: "Alok Sharma",
         Role: "Research Advocate",
         facebook: "https://www.facebook.com/alok.sharma.654054",
-        instagram: "https://github.com/alok-9898",
-        github: "https://www.linkedin.com/in/alok-sharma-32576a353/",
+        instagram: "https://www.instagram.com/alok_9898?igsh=MzZ3c2V1aG9mZ3Q5",
+        github: "https://github.com/alok-9898",
         linkedin: "https://www.linkedin.com/in/alok-sharma-32576a353/"
     },
    
